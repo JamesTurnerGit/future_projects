@@ -28,3 +28,7 @@ Learn how to write code and wire up the rasbery pi for future projects
 ## Mailbot
 ### Description
 Pi or arduino powered physical device that detects when a inconviently located mailbox has been added to and sends a tweet to the owner.
+
+## FTP alert bot
+### Description
+puts a message in a Discord channel when a file is added to an ftp directory
